@@ -1,0 +1,1 @@
+ border-left: 10px solid rgb(19, 204, 157);
